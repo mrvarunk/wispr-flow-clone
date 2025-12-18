@@ -1,8 +1,8 @@
 \# Wispr Flow Clone
 
 
+![App Screenshot](https://raw.githubusercontent.com/mrvarunk/wispr-flow-clone/main/screenshots/home.png)
 
-!\[App Screenshot](screenshots/home.png)
 
 
 
