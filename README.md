@@ -1,84 +1,66 @@
-# \# Wispr Flow Clone
+\# Wispr Flow Clone
 
-# 
 
-# A voice-to-text desktop application inspired by Wispr Flow, built using \*\*Tauri\*\*, \*\*React\*\*, and \*\*Deepgram\*\*.
 
-# The app supports real-time speech transcription with a clean and minimal UI.
+!\[App Screenshot](screenshots/home.png)
 
-# 
 
-# ---
 
-# 
+A voice-to-text desktop application inspired by Wispr Flow, built using \*\*Tauri\*\*, \*\*React\*\*, and \*\*Deepgram\*\*.  
 
-# \## 🚀 Features
+The app supports real-time speech transcription with a clean and minimal UI.
 
-# \- Real-time voice transcription
 
-# \- Push-to-talk interface
 
-# \- Desktop application using Tauri
+\## 🚀 Features
 
-# \- Fast and lightweight UI with React
+\- Real-time voice transcription
 
-# \- Secure API usage with environment variables
+\- Push-to-talk interface
 
-# 
+\- Desktop application using Tauri
 
-# ---
+\- Fast and lightweight UI with React
 
-# 
+\- Secure API usage with environment variables
 
-# \## 🛠 Tech Stack
 
-# \- Frontend: React, TypeScript, Vite
 
-# \- Backend: Tauri (Rust)
+\## 🛠 Tech Stack
 
-# \- Speech-to-Text: Deepgram API
+\- Frontend: React, TypeScript, Vite
 
-# \- Styling: Tailwind CSS
+\- Backend: Tauri (Rust)
 
-# 
+\- Speech-to-Text: Deepgram API
 
-# ---
+\- Styling: Tailwind CSS
 
-# 
 
-# \## 📸 Screenshots
 
-# 
+\## ⚙️ Setup \& Installation
 
-# !\[Home Screen](screenshots/home.png)
 
-# 
 
-# ---
+\### Prerequisites
 
-# 
+\- Node.js
 
-# \## ⚙️ Setup \& Installation
+\- Rust (for Tauri)
 
-# 
+\- Deepgram API Key
 
-# \### Prerequisites
 
-# \- Node.js
 
-# \- Rust (for Tauri)
+\### Steps
 
-# \- Deepgram API Key
+```bash
 
-# 
+git clone https://github.com/mrvarunk/wispr-flow-clone.git
 
-# \### Steps
+cd wispr-flow-clone
 
-# ```bash
+npm install
 
-# git clone https://github.com/mrvarunk/wispr-flow-clone.git
 
-# cd wispr-flow-clone
-
-# npm install
 
